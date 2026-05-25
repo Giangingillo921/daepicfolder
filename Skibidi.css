@@ -1,0 +1,48 @@
+h6  {text-align: center; 
+     color: white;
+     -webkit-text-stroke-width: 2.5px;
+     -webkit-text-stroke-color: black;
+     margin: -17px;	 
+	 font-size: 700%;
+	 font-family: Brush Script MT;
+	 font-weight: normal;
+     line-height: 260px;
+     .width: 1920px;
+     .height: 1080px;}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: Set a width if needed */
+  width: 80%;
+}
+
+pre {text-align: right; 
+     color: white;
+     -webkit-text-stroke-width: 1.5px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 250%;
+	 font-family: Times New Roman;
+	 font-weight: normal;}
+	 
+tr {text-align: center; 
+     color: white;
+	 font-size: 175%;
+     -webkit-text-stroke-width: 1.2px;
+     -webkit-text-stroke-color: black;
+	 font-family: Times New Roman;
+font-weight: normal;}
+	 
+body {background-color: wheat;}
+
+caption {text-align: center; 
+     color: white;
+     -webkit-text-stroke-width: 1.8px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 500%;
+	 font-family: Brush Script MT;
+	 font-weight: normal;}
+	
+	 
+background-image: url('https://www.pandorarivista.it/wp-content/uploads/2023/05/The-Napoleonic-Wars.-A-Global-History-di-Alexander-Mikaberidze-scaled-1.jpg');
+background-repeat: no-repeat;

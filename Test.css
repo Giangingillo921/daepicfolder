@@ -1,0 +1,38 @@
+body {background-color: black;}
+
+pre {text-align: right; 
+     color: white;
+	 background-color: 232E30;
+     -webkit-text-stroke-width: 1.5px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 300%;
+	 font-family: Times New Roman;
+	 font-weight: normal;
+     text-align: center;}
+	 
+caption {text-align: center; 
+     color: white;
+	 background-color: dark;
+     -webkit-text-stroke-width: 1.8px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 500%;
+	 font-family: Brush Script MT;
+	 font-weight: normal;
+     text-align: center;}
+	 
+tr {text-align: center; 
+     color: white;
+	 background-color: dark;
+	 font-size: 300%;
+     -webkit-text-stroke-width: 1.2px;
+     -webkit-text-stroke-color: black;
+	 font-family: Times New Roman;
+	 font-weight: normal;
+     text-align: center;}
+	 
+table {
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: Set a width if needed */
+  width: 80%;
+}

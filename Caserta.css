@@ -1,0 +1,133 @@
+li {font-family: Brush Script MTL; 
+    color: white;
+	background-color: black;
+    float:center;
+	padding: 73px;
+	font-size: 500%;}
+	
+h6  {text-align: center; 
+     color: white;
+     -webkit-text-stroke-width: 2.5px;
+     -webkit-text-stroke-color: black;
+     margin: -17px;	 
+	 .background-image: url('https://www.pandorarivista.it/wp-content/uploads/2023/05/The-Napoleonic-Wars.-A-Global-History-di-Alexander-Mikaberidze-scaled-1.jpg');
+     .background-repeat: no-repeat;
+	 font-size: 700%;
+	 font-family: Brush Script MT;
+	 font-weight: normal;
+     line-height: 260px;
+     text-align: center;
+     .width: 1920px;
+     .height: 1080px;}
+
+pre {text-align: right; 
+     color: white;
+     -webkit-text-stroke-width: 1.5px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 300%;
+	 font-family: Times New Roman;
+	 font-weight: normal;
+     text-align: center;}
+
+tr {text-align: center; 
+     color: white;
+	 font-size: 175%;
+     -webkit-text-stroke-width: 1.2px;
+     -webkit-text-stroke-color: black;
+	 font-family: Times New Roman;
+	 font-weight: normal;
+     text-align: center;}
+	 
+body {background-color: wheat;
+     font-size: 20px;
+     font-family: sans-serif;
+     color: #333;;}
+
+caption {text-align: center; 
+     color: white;
+     -webkit-text-stroke-width: 1.8px;
+     -webkit-text-stroke-color: black;	 
+	 font-size: 500%;
+	 font-family: Brush Script MT;
+	 font-weight: normal;
+     text-align: center;}
+	 
+fieldset {position: center;}
+
+nav ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+    background-color:#f2f2f2;
+}
+
+nav ul li {
+    display:inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding:5px10px;
+    color:#333;
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background-color:#ddd;
+}
+
+nav ul li:hover > ul {
+    display: block;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    background-color:#f2f2f2;
+}
+
+nav ul ul li {
+    display: block;
+}
+
+nav ul ul li a {
+    padding:5px15px;
+    color:#333;
+}
+
+nav ul ul li a:hover {
+    background-color:#ddd;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: Set a width if needed */
+  width: 80%;
+}
+
+button { position: center;
+         background-color: black;
+		 color: white;
+}
+
+.question{
+  font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+#submit{
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: #297;
+  color: #fff;
+  border: 0px;
+  border-radius: 3px;
+  padding: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+#submit:hover{
+  background-color: #3a8;
+}
